@@ -1,0 +1,92 @@
+{
+    "offers":{
+       "ffcash":{
+          "button":"Install",
+          "image":"https://play-lh.googleusercontent.com/FWxbCnTszDrJXmmaRH04czvwfJcNEfIAGch_UOoXdvlFgn5ruh2FFMAa2bW3ae2X770=s64-rw",
+          "name":"Make Money Online",
+          "subname": "Earn PayPal Cash, dialy gifts & more",
+          "position":"1",
+          "showin":"middle",
+          "showin_fav":"true",
+          "showin_home":"true",
+          "showin_text":"true",
+          "showin_symbols":"true",
+          "imagefrom":"assets", 
+          "type":"app",
+          "url":"com.picasso.m_money",
+          "visible":"true"
+       },
+       "share":{
+          "button":"Share",
+          "image":"assets/images/icon.png",
+          "name":"Share the app with your friends",
+          "position":"3",
+          "showin":"hmm",
+          "showin_fav":"false",
+          "showin_home":"false",
+          "showin_text":"true",
+          "share":"get ff name creator free on playstore",
+          "bg":"blue",
+          "imagefrom":"assets",
+          "type":"url",
+          "url":"https://www.google.com/search?q=No+implementation+found+for+method+canLaunch+on+channel+plugins.flutter&oq=No+implementation+found+for+method+canLaunch+on+channel+plugins.flutter&aqs=edge..69i57.311j0j1&sourceid=chrome&ie=UTF-8",
+          "visible":"true"
+       }
+    },
+    "banner": {
+        "0": {
+            "bannerType": "admob"
+        }
+    },
+    "ads": {
+        "push_offers": true,
+        "showbanner": true,
+        "appoffershow": true,
+        "appoffername": "kkkkk",
+        "appofferurl":"kdlkfldkf",
+        "admobinterstitialtimer": 15,
+        "max_interstitials": 120,
+        "AdmobinterstitialId": "/112517806,22877764688/3271696492533",
+         "AdmobNativelId": "/112517806,22877764688/5451696492561",
+        "showadmobnative": true,
+        "showmainnative" : true,
+          "isbannerfacebook" : false,
+          "showAdmobInterstitials": true,
+          "isinterstitialbothcopy": true,
+          "isinterstitialbothpages": true,
+          "interstitialtimer" : 30,
+          "ff_pubg": 20,
+          "diamondsbuttonaction2" : 0,
+          "showdiamondbanner":false,
+          "showdiamondbutton":false,
+          "diamondsbuttonaction": 0,
+          "isinterstitialapplovin": false,
+          "isinterstitialapplovin2": false,
+   "isinterstitialcopyfacebook" : false,
+   "isinterstitialpagesfacebook" : false,
+   "isinterstitialrandomsfacebook" : false,
+   "isinterstitialadmob": true,
+   "showcopynative" : true,
+   "showcopynativefacebook": false,
+   "showmodalnative" : true,
+   "showadinoffers": true,
+   
+   "isnativemainfacebook" : false,
+   "copynativeonlyfacebook": false,
+   "copynativerandom" : 5,
+   "maxrewardvideo": 10,
+   "showfavoritesnative" : true,
+   "showsymbolsnative" : true,
+   "showtextsnative" : true,
+   "showmorepagenative" : true,
+   "facebook_interstitial" : "",
+   "admob_interstitial" : "",
+   "facebook_banner" : "",
+   "admob_banner" : "",
+   "admob_native" : "",
+   "diamondbanner_text1" : "", 
+   "diamondbanner_text2" : "",
+   "diamondbanner_text3" : ""
+ 
+    }
+ }
